@@ -1,5 +1,5 @@
 - 👋 Hi, I’m April.
-- 👀 I’m interested in developing programs using Java programming language.
+- 👀 I’m interested in developing programs using Java.
 - 🌱 I’m currently learning the basics/fundamentals of programming in my Computer Science class.
 - 💞️ I’m looking to collaborate on group projects.
 - 📫 How to reach me: Gmail: cabanillaaprilanne@gmail.com
